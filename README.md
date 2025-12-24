@@ -1,4 +1,15 @@
-![](https://github.com/KishanStark789/KishanStark789/blob/2f829a42398acef8e6a9c429413c35fdc0bfc526/Readme%20img.png)
+<p align="center">
+  <img 
+    src="https://github.com/KishanStark789/KishanStark789/blob/2f829a42398acef8e6a9c429413c35fdc0bfc526/Readme%20img.png"
+    alt="Data Analyst Banner"
+    style="
+      width: 100%;
+      max-width: 1200px;
+      height: auto;
+      border-radius: 12px;
+    "
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Kishan Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
