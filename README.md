@@ -1,7 +1,8 @@
 <!-- Banner -->
+<!-- Banner -->
 <p align="center" style="margin-top:-40px;">
   <img 
-    src="github_banner_1536x485.png"
+    src="https://raw.githubusercontent.com/KishanStark789/KishanStark789/cf44f464d28efe31639731ae8bc112f738fb403f/Readme%20img.png"
     alt="Data Analyst Banner"
     style="
       width:100%;
@@ -10,6 +11,7 @@
     "
   />
 </p>
+>
 
 <h1 align="center">Hi 👋, I'm Kishan Singh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
