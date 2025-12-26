@@ -2,7 +2,7 @@
 <!-- Banner -->
 <p align="center" style="margin-top:-40px;">
   <img 
-    src="https://github.com/KishanStark789/KishanStark789/blob/2da83bd951b741fdf5ac2bfa76a0bc52636d714f/Banner%20img.PNG"
+    src="https://github.com/KishanStark789/KishanStark789/blob/4a73b8060fece30bac702274b433972e7bfd66fa/Banner_img%20.PNG"
     alt="Data Analyst Banner"
     style="
       width:100%;
